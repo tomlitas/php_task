@@ -1,6 +1,6 @@
 Step 1
 
-git clone
+git clone https://github.com/tomlitas/php_task.git
 
 Step 2
 
